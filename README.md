@@ -4,6 +4,10 @@
   <i>Exploring the thin line between security and chaos.</i>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+Defensive;Breaking+to+Understand;Curiosity+is+the+Ultimate+Exploit" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🕵️‍♂️ About Me:
@@ -35,3 +39,8 @@
 I navigate through **vulnerabilities** like we all navigate through **life's uncertainties** – looking for cracks, not to break, but to understand.  
 If you're here, you already know – **curiosity is the ultimate exploit.**
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
