@@ -8,7 +8,7 @@
 
 ### 🕵️‍♂️ About Me:
 
-- 🛠️ **Penetration Tester** / ** Defensive ** – I break things to understand how they work.  
+- 🛠️ **Penetration Tester** / **Defensive** – I break things to understand how they work.  
 - 🧠 Constantly learning **Nmap, SQL Injection, Exploitation**, and more.  
 - 🔍 Passionate about **network scanning, service analysis, and uncovering hidden vulnerabilities**.  
 - 📜 Blending **technical precision** with **philosophical reflections** – because every system, like every soul, has its cracks.
