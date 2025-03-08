@@ -30,14 +30,6 @@
 
 ---
 
-### 📫 Connect with Me:
-
-- GitHub: [Your GitHub Link]
-- Twitter (X): [Your Handle]  
-- Blog (if you have one): [Your Blog Link]  
-
----
-
 ### 🖤 A Glimpse of My World:
 
 I navigate through **vulnerabilities** like we all navigate through **life's uncertainties** – looking for cracks, not to break, but to understand.  
