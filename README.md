@@ -42,5 +42,5 @@ If you're here, you already know – **curiosity is the ultimate exploit.**
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliMehri&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
