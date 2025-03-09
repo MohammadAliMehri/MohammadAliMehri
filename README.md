@@ -46,5 +46,6 @@ If you're here, you already know – **curiosity is the ultimate exploit.**
 alt="GitHub Stats" />
 </div>
 
-data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=compact" style="max-width: 100%;">
-</a>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=compact"
+     </div>
