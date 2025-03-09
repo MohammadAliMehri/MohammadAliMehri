@@ -43,6 +43,8 @@ If you're here, you already know – **curiosity is the ultimate exploit.**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliMehri&show_icons=true&theme=radical" 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=compact"
 alt="GitHub Stats" />
 </div>
+
+data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=compact" style="max-width: 100%;">
+</a>
