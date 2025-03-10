@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<img src="https://media.giphy.com/media/kg9fAQryp5fMY/giphy.gif" width="480" height="240" alt="Mr Robot GIF" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+Defensive;Breaking+to+Understand;Curiosity+is+the+Ultimate+Exploit" alt="Typing SVG" />
 </p>
 
