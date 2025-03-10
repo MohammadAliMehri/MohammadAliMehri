@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm MohammadAli 👾</h1>
 
-<iframe src="https://giphy.com/embed/kg9fAQryp5fMY" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-rami-malek-serie-kg9fAQryp5fMY">via GIPHY</a></p>
-
 <p align="center">
   <i>Exploring the thin line between security and chaos.</i>
 </p>
