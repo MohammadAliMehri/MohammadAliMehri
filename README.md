@@ -22,7 +22,7 @@
 
 ### ⚙️ Tools & Skills:
 
-- **Recon & Scanning:** `Nmap`, `Gobuster`, `Dirbuster`
+- **Recon & Scanning:** `Nmap`, `dirb`, `Dirbuster`
 - **Exploitation:** `SQL Injection`, `Brute Force`, `FTP Exploitation`
 - **Scripting:** Bash, Python (for custom payloads)
 - **Analysis:** HTTP, DNS, and service fingerprinting
