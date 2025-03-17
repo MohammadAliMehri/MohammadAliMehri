@@ -47,8 +47,6 @@ If you're here, you already know – **curiosity is the ultimate exploit.**
 alt="GitHub Stats" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadAliMehri&theme=highcontrast&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=pie"
      </div>
