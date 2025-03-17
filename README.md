@@ -47,9 +47,7 @@ If you're here, you already know – **curiosity is the ultimate exploit.**
 alt="GitHub Stats" />
 </div>
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MohammadAliMehri&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadAliMehri&theme=highcontrast&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&amp;layout=pie"
