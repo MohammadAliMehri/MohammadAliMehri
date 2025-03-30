@@ -68,5 +68,5 @@ alt="GitHub Stats" />
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&theme=tokyonight"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&theme=dark"
      </div>
