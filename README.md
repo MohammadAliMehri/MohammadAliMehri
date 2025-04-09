@@ -40,4 +40,4 @@ alt="GitHub Stats" />
      </div>
 
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=transparent)
