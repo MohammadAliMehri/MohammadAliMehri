@@ -38,3 +38,6 @@ alt="GitHub Stats" />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&theme=transparent"
      </div>
+
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
