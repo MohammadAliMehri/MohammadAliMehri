@@ -24,11 +24,13 @@
 
 ---
 
-### 📊 My Philosophy:
+### My Philosophy:
 
 > "Behind every system’s weakness lies a story untold – I am here to read between the lines."
 
 ---
+
+## 📊 GitHub State
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliMehri&show_icons=true&theme=transparent" 
