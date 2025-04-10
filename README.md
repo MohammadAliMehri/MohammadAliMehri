@@ -42,4 +42,4 @@ alt="GitHub Stats" />
      </div>
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadAliMehri&theme=transparent&no-frame=false&no-bg=true&margin-w=4)]
+[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadAliMehri&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
