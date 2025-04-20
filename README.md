@@ -1,7 +1,7 @@
 
 ! <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3ZnBxY2oxZzFyczg0eG1nN3lmdTd3N3lxOXZodWdlM253bTF3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PB5LE3Dcg3PeE/giphy.gif"
-</div>
+!  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3ZnBxY2oxZzFyczg0eG1nN3lmdTd3N3lxOXZodWdlM253bTF3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PB5LE3Dcg3PeE/giphy.gif"
+! </div>
 
 <img src="https://cdn.dribbble.com/userupload/25867755/file/original-9d6660c666162d2b2c84cac7bc06e1fb.png?resize=1504x846&vertical=center" alt="naruto" />
 
