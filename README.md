@@ -36,8 +36,7 @@
 ## 📊 GitHub State
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliMehri&show_icons=true&theme=transparent" 
-alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=mohammadalimehri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
