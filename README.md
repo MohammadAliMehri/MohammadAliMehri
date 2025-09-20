@@ -36,8 +36,7 @@
 ## 📊 GitHub State
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohammadalimehri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+  <img src="https://streak-stats.demolab.com?user=mohammadalimehri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </div>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&theme=transparent"
@@ -46,4 +45,4 @@
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadAliMehri&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app?username=mohammadalimehri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
