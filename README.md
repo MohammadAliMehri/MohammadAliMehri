@@ -1,5 +1,5 @@
 
-<img src="https://cdn.dribbble.com/userupload/25867755/file/original-9d6660c666162d2b2c84cac7bc06e1fb.png?resize=1504x846&vertical=center" alt="naruto" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif&vertical=center" alt="naruto" />
 
 <h1 align="center">Hey, I'm MohammadAli 👾</h1>
 
