@@ -29,16 +29,3 @@
 > "Behind every system’s weakness lies a story untold – I am here to read between the lines."
 
 ---
-
-## 📊 GitHub State
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadalimehri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&theme=transparent"
-     </div>
-
----
-
-## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app?username=mohammadalimehri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
