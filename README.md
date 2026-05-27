@@ -19,6 +19,17 @@
 - AI vibe coding for rapid prototypes, automation flows, and security workflows
 - Building custom tools for recon, testing, and reporting
 
+## Starred Repos Dashboard
+
+| Repository | Stars |
+| --- | --- |
+| [Tuition_Payment_Management_System](https://github.com/MohammadAliMehri/Tuition_Payment_Management_System) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/Tuition_Payment_Management_System?style=for-the-badge&logo=github&label=Stars) |
+| [cpp_practice](https://github.com/MohammadAliMehri/cpp_practice) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/cpp_practice?style=for-the-badge&logo=github&label=Stars) |
+| [Shodan-Extractor](https://github.com/MohammadAliMehri/Shodan-Extractor) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/Shodan-Extractor?style=for-the-badge&logo=github&label=Stars) |
+| [WSTG_QUIZ](https://github.com/MohammadAliMehri/WSTG_QUIZ) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/WSTG_QUIZ?style=for-the-badge&logo=github&label=Stars) |
+| [Security-Toolkit](https://github.com/MohammadAliMehri/Security-Toolkit) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/Security-Toolkit?style=for-the-badge&logo=github&label=Stars) |
+| [System-monitoring-script](https://github.com/MohammadAliMehri/System-monitoring-script) | ![Stars](https://img.shields.io/github/stars/MohammadAliMehri/System-monitoring-script?style=for-the-badge&logo=github&label=Stars) |
+
 ## Knowledge & Skills
 
 <p align="left">
