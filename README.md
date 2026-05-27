@@ -4,28 +4,42 @@
 <h1 align="center">Hey, I'm MohammadAli 👾</h1>
 
 <p align="center">
-  <i>Exploring the thin line between security and chaos.</i>
+  <i>Web Application Pentester | AI Vibe Coder | Tool Maker</i>
 </p>
 
-<h2 id="knowledge_skills" align=''> Knowledge & Maybe Skills? </h2>
-
-<br>
-
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-  </div>
-</div>
+<p align="center">
+  I break web apps to make them safer, and I build AI-powered tools to move faster.
+</p>
 
 ---
 
----
+## What I Do
 
-### My Philosophy:
+- Web application penetration testing (OWASP risks, auth flaws, logic bugs, and misconfigurations)
+- AI vibe coding for rapid prototypes, automation flows, and security workflows
+- Building custom tools for recon, testing, and reporting
 
-> "Behind every system’s weakness lies a story untold – I am here to read between the lines."
+## Knowledge & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Tool_Making-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Tool Making" />
+</p>
+
+## Current Focus
+
+- Hunting impactful web vulnerabilities and improving secure design
+- Building lightweight AI-assisted security tooling
+- Turning manual testing pain points into practical tools
+
+### My Philosophy
+
+> "Behind every system's weakness lies a story untold. I am here to read between the lines."
 
 ---
