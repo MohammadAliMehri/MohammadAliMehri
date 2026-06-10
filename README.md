@@ -60,7 +60,7 @@
 ## 🎯 Current Focus
 
 * Hunting impactful web vulnerabilities
-* 
+* ? ;(
 ---
 
 ## 📊 GitHub Stats
