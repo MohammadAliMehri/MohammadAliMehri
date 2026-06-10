@@ -60,10 +60,7 @@
 ## 🎯 Current Focus
 
 * Hunting impactful web vulnerabilities
-* Building lightweight AI-assisted security tooling
-* Turning repetitive pentest pain points into automation
-* Exploring AI for offensive security workflows
-
+* 
 ---
 
 ## 📊 GitHub Stats
