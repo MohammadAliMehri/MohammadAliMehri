@@ -78,13 +78,3 @@
 > *"Behind every system's weakness lies a story untold. I am here to read between the lines."*
 
 ---
-
-### ✍️ Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadalimehri&icon=0&color=0" />
-</p>
