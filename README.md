@@ -78,3 +78,5 @@
 > *"Behind every system's weakness lies a story untold. I am here to read between the lines."*
 
 ---
+
+![](https://raw.githubusercontent.com/mohammadalimehri/github-pacman/output/pacman-contribution-graph-dark.svg)
