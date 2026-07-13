@@ -79,4 +79,3 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mohammadalimehri/github-pacman/output/pacman-contribution-graph-dark.svg)
