@@ -4,17 +4,24 @@
 
 <pre align="center">
 <code>
- ███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
- ████╗ ████║██╔══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
- ██╔████╔██║███████║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
- ██║╚██╔╝██║██╔══██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
- ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
- ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+ ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
+ ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+ ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+ ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+ ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+ 
+  █████╗ ██╗     ██╗
+ ██╔══██╗██║     ██║
+ ███████║██║     ██║
+ ██╔══██║██║     ██║
+ ██║  ██║███████╗██║
+ ╚═╝  ╚═╝╚══════╝╚═╝
 </code>
 </pre>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F523&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%90+Web+App+Pentester+%7C+AI+Vibe+Coder+%7C+Security+Tool+Maker;Breaking+systems+to+make+them+safer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F523&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%2B+WebApp+Pentester+%7C+AI+Vibe+Coder+%7C+Security+Tool+Maker;Breaking+systems+to+make+them+safer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h3>
 
 <p align="center">
