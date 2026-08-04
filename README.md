@@ -1,27 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadAliMehri/MohammadAliMehri/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00F523&height=120&section=header" width="100%" />
 </p>
 
 <pre align="center">
 <code>
- ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
- ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
- ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
- ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
- ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
- ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
- 
-  █████╗ ██╗     ██╗
- ██╔══██╗██║     ██║
- ███████║██║     ██║
- ██╔══██║██║     ██║
- ██║  ██║███████╗██║
- ╚═╝  ╚═╝╚══════╝╚═╝
+ ██╗  ██╗███████╗██╗     ██╗      ██████╗     ███████╗██████╗ ██╗███████╗███╗   ██╗██████╗ 
+ ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██╔════╝██╔══██╗██║██╔════╝████╗  ██║██╔══██╗
+ ███████║█████╗  ██║     ██║     ██║   ██║    █████╗  ██████╔╝██║█████╗  ██╔██╗ ██║██║  ██║
+ ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██╔══╝  ██╔══██╗██║██╔══╝  ██║╚██╗██║██║  ██║
+ ██║  ██║███████╗███████╗███████╗╚██████╔╝    ██║     ██║  ██║██║███████╗██║ ╚████║██████╔╝
+ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ 
 </code>
 </pre>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F523&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%2B+WebApp+Pentester+%7C+AI+Vibe+Coder+%7C+Security+Tool+Maker;Breaking+systems+to+make+them+safer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F523&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%2B+Web+Security+Researcher+%7C+AI+Vibe+Coder+%7C+Security+Tool+Maker;Breaking+systems+to+make+them+safer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -40,7 +33,7 @@
 
 ```yaml
 name: MohammadAli Mehri
-role: Web Application Pentester & Security Tool Maker
+role: Web Security Researcher & Security Tool Maker
 location: 🌍 [CLASSIFIED]
 motto: "Behind every system's weakness lies a story untold."
 current_mission: >
@@ -55,7 +48,7 @@ current_mission: >
 
 ```
   ┌──────────────────────────────────────────────────────────────────┐
-  │  🔍  PENTESTING     │  OWASP Top 10, auth flaws, logic bugs     │
+  │  🔍  SECURITY RES.  │  OWASP Top 10, Web Pentesting, Bug Bounty │
   │  🤖  AI VIBE CODE   │  Rapid prototypes & security workflows    │
   │  🛠️  TOOL MAKING    │  Recon, automation, reporting utilities    │
   │  📚  LEARNING       │  Always exploring new attack surfaces     │
