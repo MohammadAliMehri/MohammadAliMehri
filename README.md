@@ -120,10 +120,6 @@ current_mission: >
   <img src="https://streak-stats.demolab.com/?user=mohammadalimehri&theme=ocean_dark&hide_border=false" alt="GitHub Streak" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadalimehri&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
 ---
 
 ## 🌊 ── Contribution Graph ─────────────────────────────────
