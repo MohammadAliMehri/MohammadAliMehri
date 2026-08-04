@@ -17,6 +17,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Now+You+See+Me...;%2B+Web+Security+Researcher+%7C+AI+Vibe+Coder;Breaking+systems+to+make+them+safer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h3>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadalimehri&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
   &nbsp;
