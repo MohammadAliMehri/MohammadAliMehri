@@ -6,9 +6,6 @@
 
 I’m focused on ethical hacking, penetration testing, Linux, and automation. I like learning by building practical scripts and tools for security workflows.
 
-[![GitHub followers](https://img.shields.io/github/followers/MohammadAliMehri?style=flat&logo=github&label=Followers&color=8b5cf6)](https://github.com/MohammadAliMehri?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=MohammadAliMehri&style=flat&color=8b5cf6&label=Profile%20views)](https://github.com/MohammadAliMehri)
-
 </div>
 
 ## Featured projects
@@ -39,12 +36,31 @@ I’m focused on ethical hacking, penetration testing, Linux, and automation. I 
   <img src="https://img.shields.io/badge/Wireshark-18122B?style=flat&logo=wireshark&logoColor=C4A1FF" alt="Wireshark" />
 </p>
 
-## GitHub
+## GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAliMehri&show_icons=true&hide_border=true&bg_color=10051c&title_color=C4A1FF&icon_color=9D4EDD&text_color=E9DDFF" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAliMehri&layout=compact&hide_border=true&bg_color=10051c&title_color=C4A1FF&text_color=E9DDFF" alt="Most-used languages" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammadalimehri&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadalimehri&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohammadalimehri&theme=midnight-purple&hide_border=true&border_radius=12&stroke=9D00FF&ring=9D00FF&fire=FF6600&currStreakLabel=9D00FF" alt="GitHub Streak" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadalimehri&label=PROFILE+VIEWS&color=9D00FF&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/mohammadalimehri">
+    <img src="https://img.shields.io/github/followers/mohammadalimehri?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mohammadalimehri?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/mohammadalimehri?label=STARS&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
+  </a>
+</p>
 
 </div>
 
