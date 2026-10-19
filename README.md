@@ -2,6 +2,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051c,50:30105c,100:7b2cbf&height=180&section=header&text=MohammadAli%20Mehri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20Automation&descSize=15&descAlignY=60&animation=fadeIn" alt="Dark purple banner with MohammadAli Mehri's name" />
 
+<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadalimehri&label=PROFILE+VIEWS&color=9D00FF&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/mohammadalimehri">
+    <img src="https://img.shields.io/github/followers/mohammadalimehri?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mohammadalimehri?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/mohammadalimehri?label=STARS&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
+  </a>
+</p>
+
+</div>
+
 ### Self-taught cybersecurity learner
 
 I’m focused on ethical hacking, penetration testing, Linux, and automation. I like learning by building practical scripts and tools for security workflows.
@@ -48,18 +64,6 @@ I’m focused on ethical hacking, penetration testing, Linux, and automation. I 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mohammadalimehri&theme=midnight-purple&hide_border=true&border_radius=12&stroke=9D00FF&ring=9D00FF&fire=FF6600&currStreakLabel=9D00FF" alt="GitHub Streak" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadalimehri&label=PROFILE+VIEWS&color=9D00FF&style=for-the-badge" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/mohammadalimehri">
-    <img src="https://img.shields.io/github/followers/mohammadalimehri?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mohammadalimehri?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/mohammadalimehri?label=STARS&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
-  </a>
 </p>
 
 </div>
